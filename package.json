@@ -1,0 +1,16 @@
+{
+	"name" : "Battleships",
+	"description" : "A simple implementation of Battleship using Node.js",
+	"version" : "0.1.0",
+	"author" : "Borislav Draganov <bobodraganov@gmail.com>",
+	"dependencies" : {},
+	"scripts" : { 
+		"start" : "node app.js"
+	},
+	"main" : "app.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/borislav-draganov/Node-BattleShips.git"
+	},
+	"license": "MIT"
+}
