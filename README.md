@@ -1,5 +1,7 @@
 # Node BattleShips #
 
+[![Build Status](https://travis-ci.org/borislav-draganov/Node-BattleShips.svg?branch=master)](https://travis-ci.org/borislav-draganov/Node-BattleShips)
+
 ## The Task ##
 Implement a very simple game of battleships ( http://en.wikipedia.org/wiki/Battleship_(game) ). If you’ve never played the game, you can get a feel for it from this online flash game ( http://www.learn4good.com/games/board/battleship.htm ). You should create a simple console (browser or terminal) application to allow a single human player to play a one-sided game of battleships against the computer. The program should create a 10x10 grid, and place a number of ships on the grid at random with the following sizes:
 * 1x Battleship (5 squares)
